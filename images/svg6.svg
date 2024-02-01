@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ring" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 864 247">
+  <defs>
+    <style>
+      .e-1 {
+        fill: #ff0;
+      }
+
+      .e-1, .e-2, .e-3, .e-4 {
+        stroke-width: 0px;
+      }
+
+      .e-2 {
+        fill: red;
+      }
+
+      .e-3 {
+        fill: #009245;
+      }
+
+      .e-4 {
+        fill: blue;
+      }
+    </style>
+  </defs>
+  <g id="yellowround">
+    <circle class="e-1" cx="740.5" cy="123.5" r="123.5"/>
+  </g>
+  <g id="blueround">
+    <circle class="e-4" cx="535.5" cy="123.5" r="123.5"/>
+  </g>
+  <g id="greenround">
+    <circle class="e-3" cx="335.5" cy="123.5" r="123.5"/>
+  </g>
+  <g id="redround">
+    <circle class="e-2" cx="123.5" cy="123.5" r="123.5"/>
+  </g>
+</svg>

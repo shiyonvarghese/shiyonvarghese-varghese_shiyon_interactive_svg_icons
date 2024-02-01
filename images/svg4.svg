@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 677 436">
+  <defs>
+    <style>
+      .b-1 {
+        fill: #ed1c24;
+      }
+
+      .b-1, .b-2 {
+        stroke-width: 0px;
+      }
+
+      .b-2 {
+        fill: #fcee21;
+      }
+    </style>
+  </defs>
+  <g id="xrectangle">
+    <rect class="b-1" width="677" height="436" rx="60.84" ry="60.84"/>
+  </g>
+  <g id="x1">
+    <rect class="b-2" x="311.5" y="-5.5" width="50" height="450" rx="10.9" ry="10.9" transform="translate(-56.65 302.23) rotate(-45)"/>
+  </g>
+  <g id="x2">
+    <rect class="b-2" x="311" y="-7" width="50" height="450" rx="10.72" ry="10.72" transform="translate(252.56 -173.74) rotate(45)"/>
+  </g>
+</svg>

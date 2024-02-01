@@ -1,0 +1,210 @@
+
+/*SVG 1*/
+
+#point:hover #aimblackcircle {
+    fill:blue; 
+}
+
+
+#point:hover #aim {
+    fill: red;
+    transform: rotate(180deg);
+
+}
+
+#aim{
+    transition: all 0.5s ease;
+    transform-origin: center;
+}
+
+#point:hover #aimredcircle{
+    fill: yellow;
+
+}
+
+#point:hover #aimblackdot{
+  fill: yellowgreen;
+
+}
+
+/*SVG 2*/
+
+#beer:hover #billyrectangle{
+    fill: yellow;
+    transform: rotate(180deg);
+
+}
+
+#billyrectangle{
+
+    transition: all 0.5s ease;
+    transform-origin: center;
+}
+
+#beer:hover #billypolygon{
+
+    fill: rgb(0, 255, 21);
+    transform: rotate(180deg);
+}
+
+#billypolygon{
+
+    transition: all 0.5s ease;
+    transform-origin: center;
+}
+
+#beer:hover #billybeer {
+
+    fill: orangered;
+}
+
+/*SVG 3*/
+
+#fevi:hover #fevicolpolygon{
+
+    fill: red;
+   
+  
+
+}
+
+
+#fevi:hover #fevicolrectangle{
+
+    fill: bisque;
+    transform: translateY(-30px);
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+
+}
+
+#fevicol{
+
+}
+
+/*SVG 4*/
+
+#xx:hover #xrectangle{
+
+    fill: aqua;
+
+}
+
+#xx:hover #x1{
+
+    fill: orangered;
+
+     transform: rotate(90deg);
+}
+
+#x1{
+
+    transition: all 0.5s ease;
+    transform-origin: center;
+
+}
+
+#xx:hover #x2{
+
+    fill: orangered;
+
+    transform: rotate(90deg);
+}
+
+#x2{
+
+    transition: 0.5s ease;
+   transform-origin: center;
+
+}
+
+
+/*SVG 5*/
+
+#bluestar{
+
+}
+
+#star:hover #redstar{
+
+    fill: white;
+
+    transition:
+    ease-in 2s;
+  transform-origin: center;
+  transform: scale(3);
+}
+
+
+
+
+#star:hover #mouth{
+
+    fill: white;
+
+    transition:
+    ease-in 2s;
+  transform-origin: center;
+  transform: scale(2);
+
+}
+
+#star:hover #eyes{
+
+    fill: white;
+
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+  transform: scale(2);
+
+}
+
+/*SVG 6*/
+
+#ring:hover #yellowround{
+
+    fill: aqua;
+
+    transform: translateX(-70px);
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+}
+
+
+
+#ring:hover #blueround{
+
+    fill: rgb(230, 0, 255);
+
+    transform: translateX(135px);
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+}
+
+
+#ring:hover #greenround{
+
+    fill: rgb(255, 136, 0);
+
+    transform: translateX(-70px);
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+}
+
+
+
+#ring:hover #redround{
+
+    fill: rgb(0, 21, 255);
+
+    transform: translateX(142px);
+    transition:
+    ease-out 1s;
+  transform-origin: center;
+}
+
